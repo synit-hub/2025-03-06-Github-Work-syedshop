@@ -2,7 +2,8 @@ Thuinderbirds
 
 Hello, This is the start.
 
-Git Workshop
+Git Workshop 
+All you need to know about GIT-HUB
 
 Hello AU Students! 
 
