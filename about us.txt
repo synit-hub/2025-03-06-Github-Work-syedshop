@@ -5,3 +5,4 @@ Git Workshop
 
 Hello AU Students! 
 
+How's it going?
